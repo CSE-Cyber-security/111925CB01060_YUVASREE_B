@@ -1,16 +1,16 @@
-Aim
+Aim:
 To write a Python program to find the factorial of a given number.
 
-Description
+Description:
 The program calculates the factorial using a for loop.
 
-Formula
+Formula:
 n! = n × (n−1) × ... × 1
 
-Input
+Input:
 A positive integer n.
 
-Output
+Output:
 The factorial of n.
 
 Example:
