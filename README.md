@@ -1,25 +1,25 @@
 FACTORIAL PROGRAM IN PYTHON
 
-AIM
+AIM:
 
 To write a Python program to find the factorial of a given number.
 
-DESCRIPTION
+DESCRIPTION:
 
 The program calculates the factorial of a number using a for loop.
 
-FORMULA
+FORMULA:
 
 n! = n × (n−1) × ... × 1
 
-INPUT
+INPUT:
 
 A positive integer n.
 
-OUTPUT
+OUTPUT:
 
 The factorial of the given number.
 
-EXAMPLE
+EXAMPLE:
 
 Input: 5
