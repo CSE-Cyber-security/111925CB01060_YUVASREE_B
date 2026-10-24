@@ -11,4 +11,5 @@ A simple Python calculator that performs addition, subtraction, multiplication, 
 Python
 
 ## Output
-![Calculator Output](screenshot1.png)(screenshot2.png)
+![Calculator Output](screenshot1.png)
+![calculator output](screenshot2.png)
